@@ -4,7 +4,7 @@ A comprehensive data science suite analyzing the Romanian National Citizenship A
 
 This project leverages structural data extraction from over **770,000 citizenship dossiers** (2012–2026) to uncover the internal logic of the Romanian citizenship pipeline.
 
-## 📂 Project Structure
+## Project Structure
 
 - **`reports/`**: The [Analytical Research Hub](reports/README.md) containing 11 standardized studies.
 - **`scripts/`**: Modular Python engine for data extraction and institutional analysis.
@@ -13,18 +13,18 @@ This project leverages structural data extraction from over **770,000 citizenshi
 - **`data/`**: Processed time-series data and distribution artifacts.
 - **`docs/`**: Technical methodology and legal context.
 
-## 📊 Key Research Areas
+## Key Research Areas
 
-### 🧬 Institutional Rhythms
+### Institutional Rhythms
 Analysis of "signatures" patterns, identifying quarterly surges and the impact of fixed-resource allocation (The Scissors Effect).
 
-### 🤖 Predictive Modeling
+### Predictive Modeling
 Feature engineering used to predict "Fast-Track" resolution probabilities and simulate long-term backlog composition crossovers.
 
-### ⚖️ Policy Impact
+### Policy Impact
 Measuring the structural shifts induced by Law 14/2025 and the historical consistency of different leadership eras.
 
-## 🚀 Getting Started
+## Getting Started
 
 Access the full findings in the **[Reports Hub](reports/README.md)**.
 
